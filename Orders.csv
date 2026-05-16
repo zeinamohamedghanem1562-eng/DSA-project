@@ -1,0 +1,21 @@
+OrderID,UserID,ShopID,ShopName,Price
+1,1,1234,Adidas,18000
+2,2,1234,Adidas,1000
+3,3,2345,Toshiba,18000
+4,4,3456,Defacto,1000
+5,5,4567,Rimmel,300
+6,1,4567,Rimmel,540
+7,2,4567,Rimmel,300
+8,3,5678,ToysRus,400
+9,6,6789,Micheal Kors,22000
+10,7,7891,Oppo,12000
+11,8,8902,Calvin Klein,8000
+12,9,9013,Levis,5100
+13,10,1124,Tiffany & Co,32000
+14,11,1124,Tiffany & Co,22350
+15,12,2235,Casio,9000
+16,13,3346,Garnier,300
+17,14,4457,Apple,30720
+18,15,5568,Ikea,6900
+19,1,6679,Vichy,1340
+20,3,7780,Tefal,2940

@@ -1,0 +1,26 @@
+ProductID,ShopName,ShopID,Name,Category,Price,Stock
+101,Adidas,1234,AirForce,Shoes,100,9000
+102,Adidas,1234,Originals T Shirt,T Shirt,80,1000
+103,Toshiba,2345,TV,Electronics,200,6000
+104,Defacto,3456,Wallet,Accessories,90,500
+105,Rimmel,4567,Lipstick,Makeup,120,300
+106,Rimmel,4567,Wide Brush,Brushes,160,540
+107,Rimmel,4567,Blusher,Face,300,150
+108,ToysRus,5678,Teddy Bear,Animals,150,400
+109,Micheal Kors,6789,Handbag,Bags,110,11000
+110,Oppo,7891,Phone,Phones,200,12000
+111,Calvin Klein,8902,Swimsuit,Swimwear,180,8000
+112,Levis,9013,Jeans,Denim,100,1700
+113,Tiffany & Co,1124,Earrings,Studded Earrings,50,8000
+114,Tiffany & Co,1124,Ring,Diamonds,55,22350
+115,Casio,2235,Watch,Accessories,120,4500
+116,Garnier,3346,Face Mask,Skin Care,90,300
+117,Apple,4457,Apple Watch,Watches,85,15360
+118,Ikea,5568,Nightstand,Bedroom,110,6900
+119,Vichy,6679,Sun Screen,SPF,100,670
+120,Tefal,7780,Kettle,Home Appliances,75,980
+121,Mahgoub,8891,Sink,Bathroom,80,7650
+122,Luna,9902,Nail Polish,Manicure,200,137
+123,Luna ,9902,Eyeliner,Eye Pencils,150,200
+124,Rolex,1013,Watch,Men's Wear,80,436000
+125,Max Muscles,2124,Protein Powder,Supplements,180,79
